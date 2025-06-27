@@ -1,6 +1,8 @@
 # Epistemic Gatekeepers and Epistemic Injustice by Design
 Fiduciary Failures in Institutional Knowledge Gatekeeping
 
+![alt text](https://github.com/Peter-Kahl/Epistemic-Gatekeepers-and-Epistemic-Injustice-by-Design/blob/main/hexagons-1.jpg?raw=true)
+
 by Peter Kahl; published 26 June 2025
 
 ### Abstract
