@@ -14,7 +14,7 @@ epistemic gatekeepers, epistemic injustice, epistemic domestication, fiduciary r
 Correspondence regarding this work is welcome.
 
 Download this scholarly work as a PDF for sharing and citation:
-[PDF download](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Gatekeepers-and-Epistemic-Injustice-by-Design/master/Kahl%20P%2C%20Epistemic%20Gatekeepers%20and%20Epistemic%20Injustice%20by%20Design%20(26%20June%202025).pdf)
+[PDF download](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Gatekeepers-and-Epistemic-Injustice-by-Design/master/Kahl%20P%2C%20Epistemic%20Gatekeepers%20and%20Epistemic%20Injustice%20by%20Design%20(26%20June%202025).pdf?raw=true)
 
 Cite this work:
 
