@@ -15,7 +15,7 @@ Download this scholarly work as a PDF for sharing and citation:
 Cite this work:
 
 ```
-Peter Kahl, ‘Epistemic Gatekeepers and Epistemic Injustice by Design: Fiduciary Failures in Institutional Knowledge Gatekeeping’ (Github, 2025) <[https://github.com/Peter-Kahl/Epistemic-Gatekeepers-and-Epistemic-Injustice-by-Design/blob/main/Kahl%20P%2C%20Epistemic%20Gatekeepers%20and%20Epistemic%20Injustice%20by%20Design%20(26%20June%202025).pdf](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Gatekeepers-and-Epistemic-Injustice-by-Design/master/Kahl%20P%2C%20Epistemic%20Gatekeepers%20and%20Epistemic%20Injustice%20by%20Design%20(26%20June%202025).pdf)>
+Peter Kahl, ‘Epistemic Gatekeepers and Epistemic Injustice by Design: Fiduciary Failures in Institutional Knowledge Gatekeeping’ (Github, 2025) <https://github.com/Peter-Kahl/Epistemic-Gatekeepers-and-Epistemic-Injustice-by-Design/blob/main/Kahl%20P%2C%20Epistemic%20Gatekeepers%20and%20Epistemic%20Injustice%20by%20Design%20(26%20June%202025).pdf>
 ```
 ## Licence
 Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)
