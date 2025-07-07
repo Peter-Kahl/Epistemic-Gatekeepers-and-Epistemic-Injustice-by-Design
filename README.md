@@ -3,7 +3,7 @@ Fiduciary Failures in Institutional Knowledge Gatekeeping
 
 ![alt text](https://github.com/Peter-Kahl/Epistemic-Gatekeepers-and-Epistemic-Injustice-by-Design/blob/main/qui_vive_PhilPapers_gatekeeping.jpg?raw=true)
 
-by Peter Kahl; published 26 June 2025
+by Peter Kahl; independent scholar; published 26 June 2025
 
 ### Abstract
 In this paper, I critically examine institutional epistemic gatekeepers—including academic platforms such as PhilPapers, JSTOR, major publishers, and academic repositories—as fiduciaries entrusted with safeguarding epistemic diversity, justice, and integrity. I argue that current institutional policies systematically domesticate and marginalise diverse epistemologies through restrictive registration requirements, monomodal publication frameworks, opaque peer-review processes, and disciplinary siloisation. Drawing on my original scholarship and recent critical insights—particularly concerning epistemic humility, epistemic transposition, and epistemic domestication—I critique these gatekeeping practices as fiduciary breaches that exacerbate socioeconomic, academic, and epistemic stratification. I advocate concrete fiduciary and epistemic reforms, including transparent review processes, representational inclusivity, multimodal and multilingual scholarly frameworks, and institutional oversight committees committed to epistemic plurality and accountability. Ultimately, this paper calls upon scholarly communities and institutions to actively honour their fiduciary responsibilities, thereby fostering genuine epistemic openness, plurality, and justice.
