@@ -12,6 +12,8 @@ In this paper, I critically examine institutional epistemic gatekeepers—includ
 ### Keywords
 epistemic gatekeepers, epistemic injustice, epistemic domestication, fiduciary responsibility, epistemic humility, epistemic transposition, multimodal epistemologies, multilingual scholarship, epistemic exclusion, institutional gatekeeping, representational diversity, academic stratification, epistemic plurality, epistemic accountability, interdisciplinary scholarship, epistemic marginalisation, microfascism, epistemic democracy, scholarly communication, institutional reform
 
+---
+
 Correspondence regarding this work is welcome.
 
 Download this scholarly work as a PDF for sharing and citation:
